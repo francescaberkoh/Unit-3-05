@@ -3,8 +3,8 @@
 Created on Mar 7, 2019
 Created for: ICS3U
 @author: Francesca Berkoh
-Daily Assignment - 3-04
-This program determines a leap year
+Daily Assignment - 3-05
+This program determines the factorial of a number
 */
 ?>
 
